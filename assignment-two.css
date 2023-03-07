@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+
+  #container{
+    height:100%;
+    width: 100%;
+  }
+
+  .container {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+  }
+
+  #box-one{
+    border: 1px solid red;
+    width: 13%;
+    height: 18vh;
+    position: absolute;
+    left: 29%;
+    top: 33%;
+  }
+  #box-two{
+    border: 1px solid yellow;
+    width: 13%;
+    height: 18vh;
+    position: absolute;
+    right: 45%;
+    top: 33%;
+  }
+  #box-three{
+    border: 1px solid green;
+    width: 13%;
+    height: 18vh;
+    position: absolute;
+    left: 29%;
+    top: 51%;
+  }
+  #box-four{
+    border: 1px solid #fa8866;
+    width: 13%;
+    height: 18vh;
+    position: absolute;
+    right: 44.9%;
+    top: 51%;
+  }
+  #box-five{
+    border: 1px solid #ae4040;
+    width: 5%;
+    height: 15vh;
+    position: absolute;
+    right: 55.5%;
+    top: 43%;
+  }
